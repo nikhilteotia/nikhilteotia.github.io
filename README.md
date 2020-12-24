@@ -1,2 +1,1 @@
-# nikhilteotia.github.io
-my pesonal website 
+my pesonal website
