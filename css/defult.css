@@ -20,12 +20,13 @@ img {
   max-width: 100%;
 }
 
-section {
-  margin: 5em 0em;
-}
-
 main {
   text-align: center;
+}
+
+section {
+  margin: auto 0;
+  padding: 1em 0;
 }
 
 h1,
@@ -91,6 +92,10 @@ strong {
   }
   .section_subtitle {
     font-size: 1.5rem;
+  }
+  section {
+    margin: auto 0;
+    padding: 3em 0;
   }
 }
 

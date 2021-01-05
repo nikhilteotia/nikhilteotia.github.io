@@ -45,12 +45,13 @@ img {
   max-width: 100%;
 }
 
-section {
-  margin: 5em 0em;
-}
-
 main {
   text-align: center;
+}
+
+section {
+  margin: auto 0;
+  padding: 1em 0;
 }
 
 //-----------------------typography------------------------------
@@ -127,6 +128,11 @@ strong {
 
   .section_subtitle {
     font-size: $h3-b;
+  }
+
+  section {
+    margin: auto 0;
+    padding: 3em 0;
   }
 }
 
