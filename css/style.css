@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color: rgb(16, 224, 16);
+  text-shadow: 2px 2px #ff0;
+
+  font-family: cursive;
+  margin-top: 45vh;
+  font-size: 3rem;
+}
+
+body {
+  background-color: black;
+}
